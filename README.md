@@ -1,3 +1,6 @@
+La estructura de datos que más se me dificultó fue la tercera, porque al principio no entendía qué era una pila ni cómo funcionaba. Me confundía la forma en que se agregaban y se sacaban los datos. Después de practicar y ver algunos ejemplos, logré entender que el último dato que entra es el primero que sale, y así pude realizar el ejercicio.
+
+
 1. Waze
 Estructura de datos: Grafos.
 ¿Por qué? Porque Waze representa las calles como conexiones entre diferentes puntos. Los lugares o cruces son los nodos y las calles son las aristas. Esto permite calcular la ruta más rápida o corta.
